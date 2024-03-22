@@ -21,4 +21,3 @@ int main() {
     printf("%d",sum(data));
 
     return 0;
-}
